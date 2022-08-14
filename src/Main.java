@@ -1,8 +1,3 @@
-/*
-By Nathan Ploos Van Amstel
-Student ID: 20010307
- */
-
 import javax.imageio.ImageIO;
 import javax.swing.*;
 import javax.swing.event.ChangeEvent;
